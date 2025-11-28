@@ -43,4 +43,5 @@
    ```
    
 # UML Sequence:
-img goes here
+<img width="1532" height="1094" alt="image" src="https://github.com/user-attachments/assets/c7e45934-e680-4998-bb87-b35435f7589a" />
+
